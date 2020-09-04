@@ -1,0 +1,11 @@
+game\PolicyHandler.class
+game\RewardRepository.class
+game\RewardController.class
+game\Allocated.class
+game\AbstractEvent.class
+game\Issued.class
+game\MissionAchieved.class
+game\AbstractEvent$1.class
+game\RewardApplication.class
+game\Reward.class
+game\config\kafka\KafkaProcessor.class
